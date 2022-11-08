@@ -6,8 +6,6 @@
 * @since   2022-11-07
 */
 
-import java.util.Scanner;
-
 /**
 * This is the marks program.
 */
@@ -54,7 +52,7 @@ final class Main {
         final String text = "recursion";
 
         final String reversedText = reverse(text);
-        
+ 
         System.out.println(text);
         System.out.println(reversedText);
 
