@@ -52,7 +52,7 @@ final class Main {
         final String text = "recursion";
 
         final String reversedText = reverse(text);
- 
+
         System.out.println(text);
         System.out.println(reversedText);
 
